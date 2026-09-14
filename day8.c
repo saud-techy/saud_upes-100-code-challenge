@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-
+//program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
 {
     char ch;
 
@@ -24,6 +24,8 @@ int main()
     {
         printf("Special character\n");
     }
+  
+//program to input three numbers and find the largest among them using if–else.
     int a, b, c;
 
     printf("Enter three numbers: ");
