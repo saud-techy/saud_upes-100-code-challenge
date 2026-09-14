@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//area and perimeter of a rectangle
 int main()
 {
     int length, breadth, area, perimeter;
@@ -10,7 +10,7 @@ int main()
     perimeter = 2 * (length + breadth);
 
     printf("Area=%d, Perimeter=%d", area, perimeter);
-
+//area and circumference of a cirle
     float radius, area, circumference;
     const float PI = 3.14159;
 
