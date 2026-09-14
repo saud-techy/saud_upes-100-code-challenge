@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//program to swap two numbers without using a third variable.
 int main() {
     int a, b;
 
@@ -10,6 +10,8 @@ int main() {
     a = a - b;
 
     printf("After swap: %d %d", a, b);
+
+    //program to find and display the sum of the first n natural numbers.
     int n, sum = 0;
 
     scanf("%d", &n);
