@@ -1,4 +1,4 @@
-
+// program to calculate simple and compound interest for given principal, rate, and time.
 #include <stdio.h>
 #include <math.h>
 
@@ -12,6 +12,8 @@ int main() {
     ci = p * pow((1 + r / 100), t) - p;
 
     printf("Simple Interest=%.0f, Compound Interest=%.2f", si, ci);
+
+  //program to input time in seconds and convert it to hours:minutes:seconds format.
 
     int totalSeconds, hours, minutes, seconds;
 
