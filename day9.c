@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main()
+//program to find the roots of a quadratic equation and categorize them.
 {
     float a, b, c, d, root1, root2;
 
@@ -27,6 +28,7 @@ int main()
     {
         printf("Roots are complex\n");
     }
+  //program that accepts a percentage (0-100) and assigns a grade
   
     int percentage;
 
