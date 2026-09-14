@@ -2,7 +2,7 @@
 
 int main()
 {
-
+  //SUM
     int a, b, sum=0;
 
     scanf("%d %d", &a, &b);
@@ -10,7 +10,7 @@ int main()
     sum = a + b;
 
     printf("Sum = %d", sum);
-  
+    //ADDITION SUBTRACTION MULTIPLICATION DIVISION
     float a, b;
     float c = a / b;
     printf("enter two numbers");
