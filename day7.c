@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main()
+//Write a program to input a year and check whether it is a leap year or not using conditional statements.
 {
     int year;
 
@@ -22,7 +23,8 @@ int main()
     else
     {
         printf("Not a leap year\n");
-
+    
+  //Write a program to input a character and check whether it is a vowel or consonant using if–else.
 
     char ch;
 
