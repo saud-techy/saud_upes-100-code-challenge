@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-
+//program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.
 {
     int a, b, c;
 
@@ -20,6 +20,7 @@ int main()
     {
         printf("Scalene");
     }
+//program to display the day of the week
 
     int day;
 
