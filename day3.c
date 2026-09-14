@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// to convert temperature from Celsius to Fahrenheit
 int main() {
     int c, f;
 
@@ -8,6 +8,7 @@ int main() {
     f = (c * 9 / 5) + 32;
 
     printf("Fahrenheit=%d", f);
+//to swap two numbers using a third variable.
     int a, b, temp;
 
     scanf("%d %d", &a, &b);
